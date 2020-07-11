@@ -1,2 +1,2 @@
-# mycode
-code
+# mypythoncode
+基础
